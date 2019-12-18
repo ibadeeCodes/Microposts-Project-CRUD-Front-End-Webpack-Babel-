@@ -1,0 +1,9 @@
+.delete {
+    color: red;
+}
+.update-submit {
+    display: none;
+}
+.clear-submit {
+    display: none;
+}
